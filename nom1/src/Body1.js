@@ -1,5 +1,8 @@
 import "./App.css";
 import img1 from "./Group 64 (1).png";
+
+// import logo from "./logo-d.png";
+// import image from "./image 22.png";
 import img2 from "./Group 67.png";
 import img3 from "./Group 68.png";
 import img4 from "./Group 69.png";
