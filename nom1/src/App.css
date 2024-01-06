@@ -1,0 +1,57 @@
+.div3{
+  width: 600px;
+font-size: 25px;
+}
+.div2{
+  margin-top: 200px;
+  margin-left: 400px;
+}
+.button1{
+  width:450px ;
+  height:49px ;
+  border-radius: 5px;
+border-color: grey;
+color: black;
+background-color: white;
+font-size: 16px;
+}
+.button2{
+  width: 200px;
+  height: 49px;
+  border-color: #116FC3;
+  border-radius: 5px;
+  margin-left: 20px;
+  background-color: #116FC3;
+  font-size: 20px;
+  color: white;
+}
+.img1{
+  width: 450px;
+  height: 250px;
+  margin-left: -550px;
+  margin-top: 180px;
+}
+.div1{
+  margin-left: -250px;
+  display: flex;
+  justify-content: space-around;
+}
+.div4{
+margin-top: 100px;
+margin-left:450px ;
+}
+.img2{
+margin-left: 100px;
+}
+.img3{
+  margin-left: 100px;
+}
+.img4{
+  margin-left: 100px;
+}
+.img5{
+  margin-left: 100px;
+}
+.img6{
+  margin-left: 100px;
+}
