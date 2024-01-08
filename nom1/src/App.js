@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import Body1 from './Body1'
+import Main_page from './pages/js/Main_page.js'
 
 export default class App extends Component {
   render() {
     return (
       <div>
-        <Body1/>
+        <Main_page/>
       </div>
     )
   }

@@ -1,17 +1,19 @@
-import "./App.css";
-import img1 from "./Group 64 (1).png";
+import "../../App.css";
+import img1 from "../img/Group 64 (1).png";
 
-// import logo from "./logo-d.png";
-// import image from "./image 22.png";
-import img2 from "./Group 67.png";
-import img3 from "./Group 68.png";
-import img4 from "./Group 69.png";
-import img5 from "./Group 70.png";
-import img6 from "./Group 71.png";
-import img7 from "./Group 72.png";
+// import logo from "../img/logo-d.png";
+// import image from "../img/image 22.png";
+import img2 from "../img/Group 67.png";
+import img3 from "../img/Group 68.png";
+import img4 from "../img/Group 69.png";
+import img5 from "../img/Group 70.png";
+import img6 from "../img/Group 71.png";
+import img7 from "../img/Group 72.png";
+import Navbar_page from "./Navbar_page";
 function App() {
   return (
     <div className="App">
+      <Navbar_page/>
       <div className="div1">
         <div className="div2">
           <h1 className="div3">Ваш Путеводитель в Мире Заботы о Здоровье</h1>
