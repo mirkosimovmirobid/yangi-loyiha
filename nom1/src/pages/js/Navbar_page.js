@@ -7,9 +7,9 @@ export default class Navbar_page extends Component {
       <div>
         
 <div className={s.navbar1}>
-    <div className={s.tash}>  tashkent</div>
+    <div className={s.tash}> Tashkent</div>
     <img src={nom} alt="" />
-    <button>Войти</button>
+    <button className='button3'>Войти</button>
 </div>
 
 
