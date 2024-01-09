@@ -1,7 +1,9 @@
 .div1{
 width: 65%;
-margin: auto;
 display: flex;
+flex-wrap: wrap;
+margin: auto;
+justify-content: space-around;
 align-items: center;
 margin-top: 200px;
 
@@ -9,16 +11,15 @@ margin-top: 200px;
 .div2{
 width: 65%;
 min-width: 300px;
-
 }
 .div7{
 width: 30%;
-min-width: 300px;
-
+flex-wrap: wrap;
 }
 .div4{
 width: 65%;
 display: flex;
+flex-wrap: wrap;
 justify-content: space-around;
 margin-left: 15%;
 margin-top:100px;
@@ -35,6 +36,7 @@ margin-top:100px;
   color: black;
   background-color: white;
   font-size: 16px;
+  margin-bottom: 20px;
 }
 .button2{
   width: 200px; 
@@ -43,6 +45,7 @@ margin-top:100px;
   border-radius:5px ;
   border-color:#116FC3;
   color:white;
+  margin-bottom: 20px;
   background-color:#116FC3;
   font-size: 20px;
 }
@@ -54,4 +57,84 @@ margin-top:100px;
   color:white;
   background-color:#116FC3;
   font-size: 12px;
+}
+@media (max-width: 600px){
+  .div4{
+    display: block;
+    justify-content: space-around;
+    margin-left: 140px;
+  }
+  .d567{
+    margin-top: 10px;
+    margin-left: 50px;
+  }
+  .d234{
+    margin-right: 50px;
+  }
+  .div7{
+width: 30%;
+flex-wrap: wrap;
+margin-top: 200px;
+}
+.button1{
+  width: 420px;
+  height: 30px;
+  margin-left: -50px;
+}
+.button2{
+  margin-left: 50px;
+}
+.div2{
+  margin-top: -50%;
+}
+.div33{
+  margin-left: -10px;
+}
+}
+.img10{
+  width: 300px;
+  height: 500px;
+}
+.div88{
+  display: flex;
+  justify-content: space-around;
+  width: 10px;
+}
+.div15{
+  width:65% ;
+  height:420px ;
+  background-color: rgb(233, 40, 40);
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.div9{
+  width: 260px;
+  height: 400px;
+  background-color: blue;
+  margin-left: 10px;
+}
+.div10{
+  width: 260px;
+  height: 400px;
+  background-color: blue;
+  margin-left: 20px;
+}
+.div11{
+  width: 260px;
+  height: 400px;
+  background-color: blue;
+  margin-left: 20px;
+}
+.div12{
+  width: 260px;
+  height: 400px;
+  background-color: blue;
+  margin-left: 10px;
+}
+.div33{
+  
+  margin-top: 50px;
+margin-left: 340px;
 }
