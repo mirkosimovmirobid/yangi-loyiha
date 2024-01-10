@@ -9,7 +9,7 @@ import img4 from "./pages/img/Group 69.png";
 import img5 from "./pages/img/Group 70.png";
 import img6 from "./pages/img/Group 71.png";
 import img7 from "./pages/img/Group 72.png";
-import img8 from "./pages/img/image 22 (2).png"
+
 function App() {
   return (
     <div className="App">
@@ -44,9 +44,7 @@ function App() {
           <img src={img7} alt="" />
         </div>
       </div> */}
-      <div className="div33">
-        <img src={img8} alt="" />
-      </div>
+ 
     </div>
   );
 }

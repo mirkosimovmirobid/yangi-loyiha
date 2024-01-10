@@ -9,11 +9,14 @@ import img4 from "../img/Group 69.png";
 import img5 from "../img/Group 70.png";
 import img6 from "../img/Group 71.png";
 import img7 from "../img/Group 72.png";
+import img8 from "../img/image 22.png"
 import Navbar_page from "./Navbar_page";
+import Main_persons from "./Main_persons"
 function App() {
   return (
     <div className="App">
-      <Navbar_page/>
+      <Navbar_page />
+
       <div className="div1">
         <div className="div2">
           <h1 className="div3">Ваш Путеводитель в Мире Заботы о Здоровье</h1>
@@ -37,6 +40,10 @@ function App() {
         <img className="img5" src={img6} alt="" />
         <img className="img6" src={img7} alt="" />
       </div>
+      <div className="div33">
+        <img src={img8} alt="" />
+      </div>
+      <Main_persons/>
     </div>
   );
 }
