@@ -9,8 +9,8 @@ export default class App extends Component {
       <div>
         {/* <Main_page/> */}
         {/* <Body/> */}
-        <Main_persons/>
-
+        <Main_persons/> 
+     
       </div>
     )
   }

@@ -15,7 +15,7 @@ import Main_persons from "./Main_persons"
 function App() {
   return (
     <div className="App">
-      <Navbar_page />
+<Navbar_page />
 
       <div className="div1">
         <div className="div2">
@@ -25,9 +25,11 @@ function App() {
             читайте <br /> отзывы пациентов и делайте правильный выбор для
             своего здоровья.
           </p>
-          <button className="button1">
-            Персоны, Клиники, Услуги, Диагностика, Лечение ...
-          </button>
+          <input
+            className="button1"
+            placeholder="    Персоны, Клиники, Услуги, Диагностика, Лечение ..."
+            type="text"
+          />
           <button className="button2">ПОИСК</button>
         </div>
         <img className="img1" src={img1} alt="" />
@@ -43,7 +45,7 @@ function App() {
       <div className="div33">
         <img src={img8} alt="" />
       </div>
-      <Main_persons/>
+      <Main_persons />
     </div>
   );
 }
