@@ -2,6 +2,7 @@
   width: 100%;
   height: 50px;
   background-color:#116FC3;
+  margin: auto;
   margin-top: 30px;
 }
 .main5{
@@ -66,10 +67,25 @@ margin-top: -20px;
   margin-left:15% ;
   margin-top: 40px;
 }
+.main22{
+  width: 30%;
+}
+.main81{
+  width: 70%;
+}
 .main8{
   margin-left: 12.7% ;
 }
+.glavn-div{
+width: 80%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
 @media (max-width: 800px){
+  .glavn-div{
+margin-top: -100px !important;
+  }
   .main5{
     display: block;
   }
@@ -92,11 +108,49 @@ margin-top: -20px;
   .img11{
     margin-left: -47px;
   }
+  .kalendar{
+    margin-left: -500%;
+    margin-top: 700px !important;
+  }
+  .k1 h1{
+    width: 450px;
+font-weight: 600;
+  }
+  .k1 p{
+    
+font-weight: 400;
+  }
+  .kun p{
+    width: 55px;
+    font-weight: 400;
+  }
+  .k2{
+    width: 40px !important;
+  display: flex;
+justify-content: space-between;
+margin-top: 20px;
+  }
+  .soat1{
+   justify-content: space-around;
+   width: 20px;
+  }
+  .we{
 
+    width: 150px;
+    font-size: 15px;
+  }
+  .main9{
+    margin-left: -8%;
+    margin-top: 200px;
+  }
+  .kalendar2{
+    margin-left: -500%;
+    margin-top: 400px !important;
+  }
 }
 .img22{
   width: 160px;
-  height: 160px;
+  height: 140px;
 }
 .img23{
   width: 150px;
@@ -130,6 +184,10 @@ margin-top: -20px;
   margin-top: -15px;
   font-size: 17px;
   
+}
+.we{
+
+font-weight: 600;
 }
 
 .h43{
@@ -172,7 +230,7 @@ font-size: 14px;
 }
 .h48{
       margin-top: -20px;
-    color:white;
+    color:rgb(0, 0, 0);
     font-size: 15px;
   font-weight: 400;
 }
@@ -195,4 +253,73 @@ text-align: center;
 .p1{
 margin-top: -5px;
 color: #116FC3;
+}
+.kalendar{
+width: 100%;
+margin-top: -80px;
+}
+.kalendar2{
+width: 100%;
+margin-top: 100px;
+}
+.kundd{
+width: 25%;
+
+}
+.kun6 p{
+line-height: 0px;
+}
+.kun1 p{
+line-height: 0px;
+}
+.kun2 p{
+line-height: 0px;
+}
+.kun3 p{
+line-height: 0px;
+}
+.kun4 p{
+line-height: 0px;
+}
+.kun5 p{
+line-height: 0px;
+}
+.kun7 p{
+line-height: 0px;
+}
+
+.kun{
+  width: 100%;
+  display: flex;
+justify-content: space-between;
+
+}
+.k2{
+  width: 100%;
+  display: flex;
+justify-content: space-between;
+margin-top: 20px;
+}
+.k1 h1{
+font-size: 25px;
+font-weight: 600;
+}
+.soat1{ 
+  width: 50px; 
+  height: 30px; 
+  border-radius:5px ; 
+  background-color: #116FC3; 
+}
+.main12{
+  margin-top: 40px;
+}
+.img23{
+  margin-top: 80px;
+}
+.padruga{
+margin-top: 3px;
+margin-left: 4px;
+}
+.span{
+  margin-top: -50px;
 }
