@@ -147,6 +147,62 @@ return (
                 <h4 className="h48">Minima ut dolor non</h4>
               </div>
             </div>
+            <div className="kalendar3">
+              <div className="k1">
+                <h1>Мединцинский центр "Бегма"</h1>
+                <p className="we">(Cupldltate voluptate)</p>
+                <div className="kun">
+                  <div className="kun1">
+                    <p>6</p>
+                    <p>cp</p>
+                  </div>
+                  <div className="kun2">
+                    <p>7</p>
+                    <p>чт</p>
+                  </div>
+                  <div className="kun3">
+                    <p>8</p>
+                    <p>пт</p>
+                  </div>
+                  <div className="kun4">
+                    <p>9</p>
+                    <p>сб</p>
+                  </div>
+                  <div className="kun5">
+                    <p>10</p>
+                    <p>вс</p>
+                  </div>
+                  <div className="kun6">
+                    <p>11</p>
+                    <p>пн</p>
+                  </div>
+                  <div className="kun7">
+                    <p>12</p>
+                    <p>вт</p>
+                  </div>
+                </div>
+              </div>
+              <div className="k2">
+                <div className="soat1">
+                  <p className="padruga">16:00</p>
+                </div>
+                <div className="soat1">
+                  <p className="padruga">16:30</p>
+                </div>
+                <div className="soat1">
+                  <p className="padruga">17:00</p>
+                </div>
+                <div className="soat1">
+                  <p className="padruga">17:30</p>
+                </div>
+                <div className="soat1">
+                  <p className="padruga">18:00</p>
+                </div>
+                <div className="soat1">
+                  <p className="padruga">18:30</p>
+                </div>
+              </div>
+            </div>
           </div>
           <div className="kundd">
             <div className="dix">
