@@ -1,0 +1,29 @@
+.main3{
+width: 100%;
+height: 50px;
+background-color:#116FC3;
+margin: auto;
+margin-top: 30px;
+}
+.main5{
+display: flex;
+justify-content: space-around;
+width: 50%;
+margin: auto;
+}
+.h4{
+font-size: 18px;
+color: white;
+margin-top: 9px;
+}
+.hi{
+font-size: 15px;
+margin-left:12.7% ;
+margin-top: 80px;
+color:#4F4F4F;
+}
+.main9{
+margin: auto;
+margin-left: 400px;
+  margin-top: 80px;
+}
