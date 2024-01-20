@@ -117,7 +117,7 @@ export default function Main_person_single() {
             </div>
           </div>
           <div className="lopsan">
-            <div className="1o">
+            <div className="lo">
               <div className="rt">
                 <h1>Мединцинский центр "Бегма"</h1>
                 <p>Cupiditate voluptatu</p>
@@ -128,7 +128,6 @@ export default function Main_person_single() {
               </div>
               <div className="rl">
                 <div className="mir">
-                  {" "}
                   <div className="kun">
                     <div className="kun1">
                       <p>6</p>
@@ -182,18 +181,137 @@ export default function Main_person_single() {
                 </div>
               </div>
             </div>
-          </div>
-          <div className="2o">
-            <div className="lp">
-              <h1>Мединцинский центр "Бегма"</h1>
-              <p>Cupiditate voluptatu</p>
-              <p>Венеролог</p>
+            <div className="oo">
+              <div className="lp">
+                <h1>Мединцинский центр "Бегма"</h1>
+                <p>Cupiditate voluptatu</p>
+                <p>Венеролог</p>
+                <p>Иммунолог</p>
+                <h4 className="g47">
+                  <FaPhone className="icon-phone" /> +1 (809) 329-6178
+                </h4>
+              </div>
+              <div className="li">
+                <div className="mir">
+                  <div className="kun">
+                    <div className="kun1">
+                      <p>6</p>
+                      <p>cp</p>
+                    </div>
+                    <div className="kun2">
+                      <p>7</p>
+                      <p>чт</p>
+                    </div>
+                    <div className="kun3">
+                      <p>8</p>
+                      <p>пт</p>
+                    </div>
+                    <div className="kun4">
+                      <p>9</p>
+                      <p>сб</p>
+                    </div>
+                    <div className="kun5">
+                      <p>10</p>
+                      <p>вс</p>
+                    </div>
+                    <div className="kun6">
+                      <p>11</p>
+                      <p>пн</p>
+                    </div>
+                    <div className="kun7">
+                      <p>12</p>
+                      <p>вт</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="k2">
+                  <div className="soat1">
+                    <p className="padruga">16:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">16:30</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">17:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">17:30</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">18:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">18:30</p>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="lo"></div>
-          </div>
-          <div className="3o">
-            <div className="gh"></div>
-            <div className="fg"></div>
+
+            <div className="ho">
+              <div className="gh">
+                <h1>Мединцинский центр "Бегма"</h1>
+                <p>Cupiditate voluptatu</p>
+                <p>Венеролог</p>
+                <p>Иммунолог</p>
+                <h4 className="g47">
+                  <FaPhone className="icon-phone" /> +1 (809) 329-6178
+                </h4>
+              </div>
+              <div className="fg">
+                <div className="ze">
+                  <div className="kun">
+                    <div className="kun1">
+                      <p>6</p>
+                      <p>cp</p>
+                    </div>
+                    <div className="kun2">
+                      <p>7</p>
+                      <p>чт</p>
+                    </div>
+                    <div className="kun3">
+                      <p>8</p>
+                      <p>пт</p>
+                    </div>
+                    <div className="kun4">
+                      <p>9</p>
+                      <p>сб</p>
+                    </div>
+                    <div className="kun5">
+                      <p>10</p>
+                      <p>вс</p>
+                    </div>
+                    <div className="kun6">
+                      <p>11</p>
+                      <p>пн</p>
+                    </div>
+                    <div className="kun7">
+                      <p>12</p>
+                      <p>вт</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="k2">
+                  <div className="soat1">
+                    <p className="padruga">16:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">16:30</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">17:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">17:30</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">18:00</p>
+                  </div>
+                  <div className="soat1">
+                    <p className="padruga">18:30</p>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
