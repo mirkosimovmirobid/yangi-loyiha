@@ -120,8 +120,13 @@ export default function Main_person_single() {
             <div className="lo">
               <div className="rt">
                 <h1>Мединцинский центр "Бегма"</h1>
-                <p>Cupiditate voluptatu</p>
-                <p>Венеролог</p>
+                <p className="yu">Cupiditate voluptatu</p>
+                <ul>
+                  <li>
+                    <p>Венеролог</p>
+                  </li>
+                </ul>
+
                 <h4 className="g47">
                   <FaPhone className="icon-phone" /> +1 (809) 329-6178
                 </h4>
@@ -183,12 +188,18 @@ export default function Main_person_single() {
             </div>
             <div className="oo">
               <div className="lp">
-                <h1>Мединцинский центр "Бегма"</h1>
-                <p>Cupiditate voluptatu</p>
-                <p>Венеролог</p>
-                <p>Иммунолог</p>
+                <h1>"МультиМед"</h1>
+                <p className="df">Distinctio Nisi lab</p>
+                <ul>
+                  <li>
+                    <p>Детский ревматолог</p>
+                  </li>
+                  <li>
+                    <p>Иммунолог</p>
+                  </li>
+                </ul>
                 <h4 className="g47">
-                  <FaPhone className="icon-phone" /> +1 (809) 329-6178
+                  <FaPhone className="icon-phone" /> +1 (805) 452-7194
                 </h4>
               </div>
               <div className="li">
@@ -249,10 +260,16 @@ export default function Main_person_single() {
 
             <div className="ho">
               <div className="gh">
-                <h1>Мединцинский центр "Бегма"</h1>
-                <p>Cupiditate voluptatu</p>
-                <p>Венеролог</p>
-                <p>Иммунолог</p>
+                <h1>Астери-Мед</h1>
+                <p className="sa">Ipsa officia eiusmo</p>
+                <ul>
+                  <li>
+                    <p>Детский невролог</p>
+                  </li>
+                  <li>
+                    <p>Онколог-проктолог</p>
+                  </li>
+                </ul>
                 <h4 className="g47">
                   <FaPhone className="icon-phone" /> +1 (809) 329-6178
                 </h4>
@@ -308,6 +325,64 @@ export default function Main_person_single() {
                   </div>
                   <div className="soat1">
                     <p className="padruga">18:30</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="virtup">
+              <div className="kjsd">
+                <h4>Опыт работы</h4>
+                <h4>Образование</h4>
+                <h4>Повышение квалификации</h4>
+                <h4>Рейтинг</h4>
+                <h4>Отзывы</h4>
+              </div>
+              <div className="ytsd">
+                <div className="birer">Опыт работы</div>
+                <div className="smilep">
+                  <div className="smilp">
+                    <div className="ikkii">
+                      <button>1990-1999</button>
+                      <h2>
+                        Волгоградская Областная <br />
+                        Клиническая Больница
+                      </h2>
+                      <h4>Врач-невролог</h4>
+                    </div>
+                    <div className="uchas">
+                      <button>1990-1999</button>
+                      <h2>
+                        Волгоградская Областная <br />
+                        Клиническая Больница
+                      </h2>
+                      <h4>Врач-невролог</h4>
+                    </div>
+                    <div className="torrt">
+                      <button>1990-1999</button>
+                      <h2>
+                        Волгоградская Областная <br />
+                        Клиническая Больница
+                      </h2>
+                      <h4>Врач-невролог</h4>
+                    </div>
+                  </div>
+                  <div className="lire">
+                    <div className="beshyu">
+                      <button>1990-1999</button>
+                      <h2>
+                        Волгоградская Областная <br />
+                        Клиническая Больница
+                      </h2>
+                      <h4>Врач-невролог</h4>
+                    </div>
+                    <div className="mner">
+                      <button>1990-1999</button>
+                      <h2>
+                        Волгоградская Областная <br />
+                        Клиническая Больница
+                      </h2>
+                      <h4>Врач-невролог</h4>
+                    </div>
                   </div>
                 </div>
               </div>

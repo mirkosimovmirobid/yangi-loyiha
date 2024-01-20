@@ -42,7 +42,8 @@ display: flex;
 justify-content: space-between;
 justify-content: space-around;
 width: 38%;
-
+margin-top: 127px;
+margin-bottom: 20px;
 }
 .k1 h1{
 font-size: 25px;
@@ -91,6 +92,7 @@ line-height: 0px;
 }
 .mir{
   width: 850px;
+  margin-bottom: 20px;
   margin-top: 50px;
 }
 .oo{
@@ -116,12 +118,37 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 }
+.rt h1{
+  width: 500px;
+   color: rgb(66, 66, 210);
+font-weight: 600;
+}
 .rl{
   margin-left: 25%;
 
 }
+.lp h1{
+  width: 500px;
+  color: rgb(66, 66, 210);
+font-weight: 600;
+}
+.sa{
+  font-weight: 900;
+}
+.df{
+    font-weight: 900;
+}
+.yu{
+    font-weight: 900;
+
+}
 .lo{
   margin-left: 8.8%;
+}
+.gh h1{
+  width: 500px;
+   color: rgb(66, 66, 210);
+font-weight: 600;
 }
 .li{
   margin-left: 25%;
@@ -139,9 +166,43 @@ align-items: center;
   margin-top: 6%;
 }
 
+.virtup{
+  display: flex;
+  margin-left: -15%;
+  margin-top: 30px;
+}
+.smilep{
+  display: block;
+}
 
-
-
+.smilp{
+  display: flex;
+  justify-content: space-around;
+  width: 120%;
+}
+.lire{
+  display: flex;
+   justify-content: space-around;
+  width: 80%;
+  margin-left: 1px;
+}
+.kjsd{
+  margin-left: -150px;
+  font-size: 20px;
+  margin-top: -25px;
+} 
+.birer{
+  font-size: 23px;
+   font-weight: 600;
+   margin-left: 28px;
+margin-bottom: 20px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
 
 
 
