@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import Navbar_page from "./Navbar_page";
 import "../css/Mainlaruchun.css";
 import { FaMoneyBillWave, FaPhone, FaStar } from "react-icons/fa";
@@ -329,61 +329,60 @@ export default function Main_person_single() {
                 </div>
               </div>
             </div>
-            <div className="virtup">
-              <div className="kjsd">
-                <h4>Опыт работы</h4>
-                <h4>Образование</h4>
-                <h4>Повышение квалификации</h4>
-                <h4>Рейтинг</h4>
-                <h4>Отзывы</h4>
-              </div>
-              <div className="ytsd">
-                <div className="birer">Опыт работы</div>
-                <div className="smilep">
-                  <div className="smilp">
-                    <div className="ikkii">
-                      <button>1990-1999</button>
-                      <h2>
-                        Волгоградская Областная <br />
-                        Клиническая Больница
-                      </h2>
-                      <h4>Врач-невролог</h4>
-                    </div>
-                    <div className="uchas">
-                      <button>2015-2020</button>
-                      <h2>
-                        Городская больница № 2 г.
-                        <br>Рубцовск</br>
-                      </h2>
-                      <h4>Врач-невролог</h4>
-                    </div>
-                    <div className="torrt">
-                      <button>1990-1999</button>
-                      <h2>
-                        Волгоградская Областная <br />
-                        Клиническая Больница
-                      </h2>
-                      <h4>Врач-невролог</h4>
-                    </div>
-                  </div>
-                  <div className="lire">
-                    <div className="beshyu">
-                      <button>1990-1999</button>
-                      <h2>
-                        Волгоградская Областная <br />
-                        Клиническая Больница
-                      </h2>
-                      <h4>Врач-невролог</h4>
-                    </div>
-                    <div className="mner">
-                      <button>1990-1999</button>
-                      <h2>
-                        Волгоградская Областная <br />
-                        Клиническая Больница
-                      </h2>
-                      <h4>Врач-невролог</h4>
-                    </div>
-                  </div>
+          </div>
+          <div className="virtup">
+            <div className="kjsd">
+              <h4>Опыт работы</h4>
+              <h4>Образование</h4>
+              <h4>Повышение квалификации</h4>
+              <h4>Рейтинг</h4>
+              <h4>Отзывы</h4>
+            </div>
+            <div className="ytsd">
+              <div className="birer">Опыт работы</div>
+              <div className="smilep">
+                <div className="ikki">
+                  <button>1990-1999</button>
+                  <h2>
+                    Волгоградская Областная <br />
+                    Клиническая Больница
+                  </h2>
+                  <h4>Врач-невролог</h4>
+                </div>
+                <div className="ikki">
+                  <button>2015-2020</button>
+                  <h2>
+                    Городская больница<br /> № 2 г.
+                    
+                    Рубцовск
+                  </h2>
+                  <h4>Врач-невролог</h4>
+                </div>
+                <div className="ikki">
+                  <button>2020-2021</button>
+                  <h2>
+                    Городская больница <br />№ 3 г.
+                    
+                    Рубцовск
+                  </h2>
+                  <h4>Врач-невролог</h4>
+                </div>
+                <div className="ikki1">
+                  <button>2021-2022</button>
+                  <h2>
+                    Рубцовская центральная 
+                    <br />
+                    районная больница
+                  </h2>
+                  <h4>Врач-невролог,заместитель<br />главного врача по <br />поликлинической работе</h4>
+                </div>
+                <div className="ikki">
+                  <button>2022-н.в.</button>
+                  <h2>
+                    ООО "Центр Здоровья и<br /> долголетия" 
+                    Клиническая <br /> Больница
+                  </h2>
+                  <h4>Врач-невролог</h4>
                 </div>
               </div>
             </div>
@@ -393,5 +392,3 @@ export default function Main_person_single() {
     </div>
   );
 }
-
-

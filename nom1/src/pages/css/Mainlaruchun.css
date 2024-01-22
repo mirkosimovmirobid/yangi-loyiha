@@ -39,7 +39,8 @@ font-weight: 600;
 .kun{
 width: 100%;
 display: flex;
-justify-content: space-between;
+justify-content: space-
+;
 justify-content: space-around;
 width: 38%;
 margin-top: 127px;
@@ -49,10 +50,14 @@ margin-bottom: 20px;
 font-size: 25px;
 font-weight: 600;
 }
+.k1{
+  margin-top: 8%;
+}
 .k2{
 width: 100%;
 display: flex;
-justify-content: space-between;
+justify-content: space-
+;
 width: 40%;
 margin-top: 0px;
 flex-wrap: wrap;
@@ -110,12 +115,13 @@ line-height: 0px;
   margin-top: 50px;
 }
 .lopsan{
-margin-left: 30%;
+margin-left: 0px;
 }
 .t{
 width: 30%;
 display: flex;
-justify-content: space-between;
+justify-content: space-
+;
 align-items: center;
 }
 .rt h1{
@@ -164,15 +170,21 @@ font-weight: 600;
 }
 .lopsan{
   margin-top: 6%;
+  margin-left: 25%;
 }
 
-.virtup{
+/* .virtup{
   display: flex;
   margin-left: -15%;
   margin-top: 30px;
 }
 .smilep{
   display: block;
+  margin-top: 50px;
+     font-weight: 600px;
+}
+.smiler h2{
+    font-weight: 600px;
 }
 
 .smilp{
@@ -194,7 +206,7 @@ font-weight: 600;
 } 
 .birer{
   font-size: 23px;
-   font-weight: 600;
+   font-weight: 600 px;
    margin-left: 28px;
 margin-bottom: 20px;
 }
@@ -203,7 +215,92 @@ button{
     height: 40px;
     border-radius: 5px;
     border: none;
+} */
+
+
+
+
+.virtup{ width: 80%;
+   min-height: 550px; 
+   display: flex;
+justify-content: space-around;
+   border-radius: 20px;
+  -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius:20px; -o-border-radius: 20px;
+  background-color: rgb(181, 181, 181);
+  margin: auto;
+
 }
+.birer{
+  font-size: 19px;
+   font-weight: 600;
+   margin-left: 20px;
+   margin-bottom: 3px;
+}
+.smilep{ width: 100%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+}
+
+.ytsd{ 
+  width: 70%;
+}
+.kjsd h4{
+margin-left: 20px;
+}
+.kjsd{ width: 350px; height: max-content; border-radius: 20px;
+  background-color: #f3f3f3;
+  -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+  margin-top: 28px;
+}
+.ikki{ width: 321.9px; height: max-content; background-color: rgb(232, 232, 232); border-radius: 20px;
+
+}
+.ikki h2{
+  margin-left: 15px;
+}
+.ikki h4{
+  margin-left: 15px;
+}
+.ikki1{
+  width: 321.9px; background-color: rgb(232, 232, 232); border-radius: 20px;
+}
+.ikki1 h2{
+  margin-left: 15px;
+}
+.ikki1 h4{
+  margin-left: 15px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background: white;
+    margin-left: 15px;
+    margin-top: 10px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
