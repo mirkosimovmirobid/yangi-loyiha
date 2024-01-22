@@ -350,10 +350,10 @@ export default function Main_person_single() {
                       <h4>Врач-невролог</h4>
                     </div>
                     <div className="uchas">
-                      <button>1990-1999</button>
+                      <button>2015-2020</button>
                       <h2>
-                        Волгоградская Областная <br />
-                        Клиническая Больница
+                        Городская больница № 2 г.
+                        <br>Рубцовск</br>
                       </h2>
                       <h4>Врач-невролог</h4>
                     </div>
