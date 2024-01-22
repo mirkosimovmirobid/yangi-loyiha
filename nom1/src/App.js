@@ -12,7 +12,7 @@ export default class App extends Component {
         {/* <Main_page/> */}
         {/* <Body/> */}
          {/* <Main_persons/>   */}
-         <Main_person_single/> 
+         <Main_person_single/>
       </div>
     )
   }
