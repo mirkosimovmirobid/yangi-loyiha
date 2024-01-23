@@ -352,37 +352,135 @@ export default function Main_person_single() {
                 <div className="ikki">
                   <button>2015-2020</button>
                   <h2>
-                    Городская больница<br /> № 2 г.
-                    
-                    Рубцовск
+                    Городская больница
+                    <br /> № 2 г. Рубцовск
                   </h2>
                   <h4>Врач-невролог</h4>
                 </div>
                 <div className="ikki">
                   <button>2020-2021</button>
                   <h2>
-                    Городская больница <br />№ 3 г.
-                    
-                    Рубцовск
+                    Городская больница <br />№ 3 г. Рубцовск
                   </h2>
                   <h4>Врач-невролог</h4>
                 </div>
                 <div className="ikki1">
                   <button>2021-2022</button>
                   <h2>
-                    Рубцовская центральная 
+                    Рубцовская центральная
                     <br />
                     районная больница
                   </h2>
-                  <h4>Врач-невролог,заместитель<br />главного врача по <br />поликлинической работе</h4>
+                  <h4>
+                    Врач-невролог,заместитель
+                    <br />
+                    главного врача по <br />
+                    поликлинической работе
+                  </h4>
                 </div>
-                <div className="ikki">
+                <div className="ikki1">
                   <button>2022-н.в.</button>
                   <h2>
-                    ООО "Центр Здоровья и<br /> долголетия" 
-                    Клиническая <br /> Больница
+                    ООО "Центр Здоровья и<br /> долголетия" Клиническая <br />{" "}
+                    Больница
                   </h2>
                   <h4>Врач-невролог</h4>
+                </div>
+              </div>
+              <div className="ytsd1">
+                <div className="birer1">Образование</div>
+                <div className="smilep1">
+                  <div className="ikki2">
+                    <button>1989</button>
+                    <h2>
+                      Волгоградский <br /> государственный <br />
+                      мединцинский университет
+                      <br />
+                      (лечебное дело)
+                    </h2>
+                    <h4>Базовое образование</h4>
+                  </div>
+                  <div className="ikki2">
+                    <button>1989</button>
+                    <h2>
+                      Областная больница №1
+                      <br /> (ОКБ 1), г. Волгоград
+                      <br />
+                      (неврология)
+                    </h2>
+                    <h4>Интернатура</h4>
+                  </div>
+                  <div className="ikki2">
+                    <button>1990</button>
+                    <h2>
+                      Областная больница №1
+                      <br /> (ОКБ 1), г. Волгоград
+                      <br />
+                      (рефлексотерапия)
+                    </h2>
+                    <h4>Ординатура</h4>
+                  </div>
+                  <div className="ikki3">
+                    <button>2000</button>
+                    <h2>
+                      Новокузнецкий <br />
+                      государственный институт <br />
+                      усовершенствования
+                      <br />
+                      врачей (неврология)
+                    </h2>
+                    <h4>Повышение квалификации</h4>
+                  </div>
+                </div>
+                <div className="ytsd1">
+                  <div className="birer1">Повышение квалификации</div>
+                  <div className="smilep3">
+                    <div className="ikki2">
+                      <button>1993</button>
+                      <h2>
+                        Повреждения и<br />
+                        заболевания позвоночника
+                        <br />и спинного мозга
+                      </h2>
+                    </div>
+                    <div className="ikki2">
+                      <button>2016</button>
+                      <h2>
+                        Диагностика неотложеных
+                        <br />
+                        состояний и интенсивная
+                        <br />
+                        терапия в клинике нервных болезней
+                        <br />
+                      </h2>
+                    </div>
+                  </div>
+                  <div className="ytsd1">
+                    <div className="birer1">Рейтинг</div>
+                    <div className="smilep4">
+                      <div className="ikki2">
+                        <h2>
+                          0
+                          <div className="main26">
+                            <FaStar className="star" />
+                            <FaStar className="star" />
+                            <FaStar className="star" />
+                            <FaStar className="star" />
+                            <FaStar className="star1" />
+                          </div>
+                        </h2>
+                      </div>
+                    </div>
+                    <div className="ytsd1">
+                      <div className="birer1">Отзывы</div>
+                      <div className="smilep5">
+                        <div className="ikki8">
+                          <h2>0 отзывов</h2>
+                          <input className="er" type="text" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

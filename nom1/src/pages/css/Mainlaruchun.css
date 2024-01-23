@@ -220,37 +220,36 @@ button{
 
 
 
-.virtup{ width: 80%;
-   min-height: 550px; 
+.virtup{
+   width: 80%;
+   min-height: 550px;
    display: flex;
-justify-content: space-around;
-   border-radius: 20px;
-  -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius:20px; -o-border-radius: 20px;
-  background-color: rgb(181, 181, 181);
-  margin: auto;
-
+   justify-content: space-around;
+   border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   -ms-border-radius: 5px;
+   -o-border-radius: 5px;
+   background-color: rgb(238, 238, 238);
+   margin: auto;
 }
 .birer{
-  font-size: 19px;
+  font-size: 25px;
    font-weight: 600;
    margin-left: 20px;
    margin-bottom: 3px;
 }
 .smilep{ width: 100%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
 }
-
 .ytsd{ 
   width: 70%;
 }
 .kjsd h4{
 margin-left: 20px;
 }
-.kjsd{ width: 350px; height: max-content; border-radius: 20px;
-  background-color: #f3f3f3;
-  -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
-  margin-top: 28px;
+.kjsd{ width: 350px; height: max-content; border-radius: 10px; background-color: hsl(0, 0%, 99%); -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; margin-top: 37px; font-size: 21px;
 }
-.ikki{ width: 321.9px; height: max-content; background-color: rgb(232, 232, 232); border-radius: 20px;
+.ikki{ width: 321.9px; height: max-content; background-color: rgb(255, 255, 255); border-radius: 20px;
 
 }
 .ikki h2{
@@ -260,7 +259,14 @@ margin-left: 20px;
   margin-left: 15px;
 }
 .ikki1{
-  width: 321.9px; background-color: rgb(232, 232, 232); border-radius: 20px;
+  width: 321.9px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  margin-top: -20px;
 }
 .ikki1 h2{
   margin-left: 15px;
@@ -273,13 +279,97 @@ button{
     height: 40px;
     border-radius: 5px;
     border: none;
-    background: white;
+    background: rgb(235, 235, 235);
     margin-left: 15px;
     margin-top: 10px;
 } 
+.birer1{
+  font-size: 25px;
+   font-weight: 600;
+   margin-left: 20px;
+   margin-bottom: 3px;
+}
+.smilep1{ width: 143%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+}
+.ytsd1{ 
+  width: 70%;
+}
+.ikki2{ width: 321.9px; height: max-content; background-color: rgb(255, 255, 255); border-radius: 20px;
 
+}
+.ikki2 h2{
+  margin-left: 15px;
+}
+.ikki2 h4{
+  margin-left: 15px;
+}
+.ikki3{
+  width: 321.9px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  margin-top: -20px;
+}
+.ikki3 h2{
+  margin-left: 15px;
+}
+.ikki3 h4{
+  margin-left: 15px;
+}
+.birer1{
+  font-size: 25px;
+   font-weight: 600;
+   margin-left: 20px;
+   margin-bottom: 3px;
+}
+.smilep3{ width: 204%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+}
+.ytsd1{ 
+  width: 70%;
+}
+.ikki2{ width: 321.9px; height: max-content; background-color: rgb(255, 255, 255); border-radius: 20px;
 
-
+}
+.ikki2 h2{
+  margin-left: 15px;
+}
+.ikki2 h4{
+  margin-left: 15px;
+}
+.main26{
+  margin-left: 20px;
+  margin-top: -45px;
+  background: none;
+}
+.star{
+color: rgb(226, 226, 32);
+}
+.star1{
+  color: rgb(197, 197, 197);
+}
+.smilep4{
+  width: 292%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+}
+.smilep5{
+  width: 418%; display: flex; justify-content: start; gap: 50px; flex-wrap: wrap; background-color: rgb(255, 255, 255); border-radius: 20px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;
+}
+.er{
+  width: 900px;
+  height: 35px;
+  margin-left: 8%;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  color: rgb(167, 167, 167);
+}
+.ikki8 h2{
+margin-left: 70px;
+}
+.h2{
+     font-weight: 600;
+}
 
 
 
