@@ -1,3 +1,4 @@
+
 .main3{
 width: 100%;
 height: 50px;
@@ -5,6 +6,7 @@ background-color:#116FC3;
 margin: auto;
 margin-top: 30px;
 }
+
 .main5{
 display: flex;
 justify-content: space-around;
@@ -32,19 +34,16 @@ display: block;
 margin-left: 55%;
 margin-top: -17%;
 }
-.we{
-
-font-weight: 600;
-}
 .kun{
 width: 100%;
 display: flex;
-justify-content: space-
-;
 justify-content: space-around;
 width: 38%;
 margin-top: 127px;
 margin-bottom: 20px;
+}
+.we{
+font-weight: 600;
 }
 .k1 h1{
 font-size: 25px;
@@ -54,10 +53,9 @@ font-weight: 600;
   margin-top: 8%;
 }
 .k2{
-width: 100%;
+
 display: flex;
-justify-content: space-
-;
+
 width: 40%;
 margin-top: 0px;
 flex-wrap: wrap;
@@ -166,7 +164,8 @@ font-weight: 600;
   margin-left: 25%;
 }
 .ho{
-  margin-left: 8.8%; 
+  margin-left: 8.8%;
+  margin-bottom: 20px; 
 }
 .lopsan{
   margin-top: 6%;
@@ -370,8 +369,251 @@ margin-left: 70px;
 .h2{
      font-weight: 600;
 }
+@media (max-width:1700px){
+  .img22{
+    margin-left: -190px;
+  }
+.kalendar3 h4{
+margin-top: -17%;
+}
+.main11 h4{
+  margin-left: -100px;
+}
+.we{
+font-weight: 600;
+}
+.k1 h1{
+font-size: 25px;
+font-weight: 600;
+}
+.k1{
+  margin-top: 6%;
+  margin-left: -160px;
+}
+.main11{
+  width: 200px;
+margin-left: 30px;
+margin-top: -30px;
+}
+.h41{
+font-size: 20px;
+color: #116FC3;
+font-weight: 400;
+}
+.h42{
+color:dimgray;
+font-weight: 400;
+font-size: 17px;
 
+}
+.h43{
+margin-top:-20px;
+font-weight: 400;
+}
+.h44{
+margin-top: -20px;
+color:dimgray;
+font-weight: 400;
+}
+.h45{
+width: 100%;
+color: #116FC3;
+margin-left: 0px;
+margin-top: -18px;
+font-size: 18px;
+font-weight: 400;
+}
+.h46{
+margin-top: -20px;
+color:dimgray;
+font-size: 15px;
+font-weight: 400;
+}
+.h47{
+width: 100%;
+color: #116FC3;
+margin-top: -18px;
+font-size: 18px;
+font-weight: 400;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.icon-money{
+font-size: 14px;
+}
+.h48{
+margin-top: -20px;
+color:rgb(0, 0, 0);
+font-size: 15px;
+font-weight: 400;
+}
+.kun{
+width: 38%;
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+margin-left:-8px;
+margin-bottom: 10px;
+}
+.k2{
+display: flex;
+width: 45%;
+margin-top: 5px;
+margin-left: -160px;
+flex-wrap: wrap;
+}
+}
+@media(max-width:1655px){
+  .kalendar3 h4{
+margin-top: -17%;
+}
+.we{
+font-weight: 600;
+}
+.k1 h1{
+font-size: 20px;
+font-weight: 600;
+}
+.k1{
+  margin-top: 5%;
+  margin-left: -160px;
+}
+.kun{
+width: 38%;
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+margin-left:-8px;
+margin-bottom: 10px;
+}
+.k2{
+display: flex;
+width: 45%;
+margin-top: 5px;
+margin-left: -160px;
+flex-wrap: wrap;
+}
+}
+@media(max-width:1546px){
+  .hi{
+    margin-left: 50px;
+  }
+    .img22{
+    margin-left: -350px;
+  }
 
+  .kalendar3 h4{
+margin-top: -17%;
+}
+.we{
+font-weight: 600;
+}
+.k1 h1{
+font-size: 16px;
+font-weight: 600;
+}
+.k1{
+  margin-top: 3%;
+  margin-left: -160px;
+}
+.kun{
+width: 38%;
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+margin-left:-8px;
+margin-bottom: 10px;
+}
+.k2{
+display: flex;
+width: 50%;
+margin-top: 5px;
+margin-left: -270px;
+flex-wrap: wrap;
+}
+.main11 h4{
+  margin-left: -100px;
+}
+.we{
+font-weight: 600;
+}
+.k1 h1{
+font-size: 15px;
+font-weight: 600;
+}
+.k1{
+  margin-top: 3%;
+  margin-left: -280px;
+}
+.main11{
+  width: 200px;
+margin-left: -140px;
+margin-top: -30px;
+}
+.h41{
+font-size: 20px;
+color: #116FC3;
+font-weight: 400;
+}
+.h42{
+color:dimgray;
+font-weight: 400;
+font-size: 17px;
+
+}
+.h43{
+margin-top:-20px;
+font-weight: 400;
+}
+.h44{
+margin-top: -20px;
+color:dimgray;
+font-weight: 400;
+}
+.h45{
+width: 100%;
+color: #116FC3;
+margin-left: 0px;
+margin-top: -18px;
+font-size: 18px;
+font-weight: 400;
+}
+.h46{
+margin-top: -20px;
+color:dimgray;
+font-size: 15px;
+font-weight: 400;
+}
+.h47{
+width: 100%;
+color: #116FC3;
+margin-top: -18px;
+font-size: 18px;
+font-weight: 400;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.icon-money{
+font-size: 14px;
+}
+.h48{
+margin-top: -20px;
+color:rgb(0, 0, 0);
+font-size: 15px;
+font-weight: 400;
+}
+.kun{
+width: 38%;
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+margin-left:-8px;
+margin-bottom: 10px;
+}
+
+}
 
 
 
