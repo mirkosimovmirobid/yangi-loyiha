@@ -118,7 +118,7 @@ margin-left: 0px;
 .t{
 width: 30%;
 display: flex;
-justify-content: space-
+justify-content: space-around
 ;
 align-items: center;
 }
@@ -614,7 +614,39 @@ margin-bottom: 10px;
 }
 
 }
-
+.h4{
+font-size: 18px;
+color: rgb(0, 0, 0);
+margin-top: 9px;
+}
+.main3{
+width: 100%;
+height: 50px;
+background-color:#116FC3;
+margin: auto;
+margin-top: 30px;
+}
+.main7{
+width: 100%;
+height: 80px;
+margin-top: -10px;
+background-color:#D9D9D9;
+}
+.main4{
+margin-top: -20px;
+}
+.main5{
+display: flex;
+justify-content: space-around;
+width: 35%;
+margin-left: -10px;
+margin: auto;
+}
+.h2{
+font-size: 20px;
+margin-left:15% ;
+margin-top: 40px;
+}
 
 
 
