@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Navbar_page from "./Navbar_page";
 import "../css/Mainlaruchun.css";
 import { FaMoneyBillWave, FaPhone, FaStar } from "react-icons/fa";
- //import dedr from "../img/dedr.png"
+//  import dedr from "../img/dedr.png"
 export default class Main_rest extends Component {
   render() {
     return (
@@ -27,6 +27,13 @@ export default class Main_rest extends Component {
             <h2 className="h2">Главная / Персоны / Yetta Rasmussen</h2>
           </div>
           {/* <img className='hj' src={dedr} alt="" /> */}
+        </div>
+        <div className="kj">
+          <div className="cv">
+            <h2 className='dsfr'>Номер телефона</h2>
+            <input className='vx' type="text" />
+            <button className='ert'>Подтвердить</button>
+          </div>
         </div>
       </div>
     );
